@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sulemanbasit
-- 👀 I’m interested in computer science
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various projects and learn
 - 📫 How to reach me email at sulemanugrad@gmail.com
