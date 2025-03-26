@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sulemanbasit<br>👀 I’m interested in data analysis and do it using: Python, Excel, SQL, Tableau<br>💞️ I’m looking forward to collaborating on various projects and learn<br>📂Data Analyst Portfolio: https://dbtronics.org/suleman_portfolio/
+👋 Hi, I’m @sulemanbasit<br>👀 I’m interested in data analysis and do it using: Python, Excel, SQL, Tableau<br>💞️ I’m looking forward to collaborating on various projects and learn<br>📂 Data Analyst Portfolio: https://dbtronics.org/suleman_portfolio/
 
 
 ## 🌐 Socials:
