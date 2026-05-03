@@ -31,12 +31,4 @@ Data analyst working with Python, SQL, and Tableau to turn raw data into actiona
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanbasit&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://nirzak-streak-stats.vercel.app/?user=sulemanbasit&theme=vision-friendly-dark&hide_border=true)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=sulemanbasit&icon=0&color=0)](https://visitcount.itsvg.in)
