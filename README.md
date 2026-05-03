@@ -33,10 +33,7 @@ Data analyst working with Python, SQL, and Tableau to turn raw data into actiona
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulemanbasit&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanbasit&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="160" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulemanbasit&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=sulemanbasit&theme=vision-friendly-dark&hide_border=true)
 
